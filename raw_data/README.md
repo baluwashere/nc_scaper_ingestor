@@ -1,0 +1,1 @@
+# Pasta de dados brutos extraídos pelos scrapers
